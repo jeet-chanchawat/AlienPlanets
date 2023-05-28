@@ -1,6 +1,7 @@
 //
 //  APHomeViewModel.swift
 //  AlienPlanets
+//  It is heart of HomeViewController, All the future business logics should be written here
 //
 //  Created by Jeet Chanchawat on 19/05/23.
 //

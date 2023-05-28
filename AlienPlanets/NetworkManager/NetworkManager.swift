@@ -1,6 +1,7 @@
 //
 //  NetworkManager.swift
 //  AlienPlanets
+//  This class is expected to be only called by ApiCaller to create URL Session
 //
 //  Created by Jeet Chanchawat on 19/05/23.
 //

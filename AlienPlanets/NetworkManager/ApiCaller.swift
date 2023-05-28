@@ -1,6 +1,7 @@
 //
 //  ApiCaller.swift
 //  AlienPlanets
+//  This class is expected to be only called by RepositoryManager to get data using API
 //
 //  Created by Jeet Chanchawat on 19/05/23.
 //

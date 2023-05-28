@@ -1,7 +1,10 @@
 //
 //  RepositoryManager.swift
 //  AlienPlanets
-//
+//  This file takes care of all the repositories.
+//  It checks if the data is available in cache then it returns data from cache
+//  If the data is not available in cache it pulls data from API, saves it to cache and returns it
+//  It is made singleton so that it will have only one active instance at a time to take care of simultaneous network calls
 //  Created by Jeet Chanchawat on 23/05/23.
 //
 

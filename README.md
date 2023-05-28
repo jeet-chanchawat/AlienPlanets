@@ -9,6 +9,7 @@
 - App will work on both iPhones and iPads
 - App consumes Apple frameworks only
 - Home Screen displays a list of planets received
+- Code is appropiately documented
 
 # How to Use
 

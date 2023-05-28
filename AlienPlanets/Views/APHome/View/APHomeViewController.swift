@@ -1,6 +1,7 @@
 //
-//  ViewController.swift
+//  APHomeViewController.swift
 //  AlienPlanets
+//  This is HomeViewController, it takes care of Displaying Data to user
 //
 //  Created by Jeet Chanchawat on 19/05/23.
 //

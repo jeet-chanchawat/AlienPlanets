@@ -1,6 +1,7 @@
 //
 //  JsonFileManager.swift
 //  AlienPlanets
+//  This class is expected to be only called by RepositoryManager to get data from cache
 //
 //  Created by Jeet Chanchawat on 23/05/23.
 //

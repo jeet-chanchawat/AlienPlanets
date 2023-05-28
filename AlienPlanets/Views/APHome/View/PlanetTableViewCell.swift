@@ -1,6 +1,7 @@
 //
 //  PlanetTableViewCell.swift
 //  AlienPlanets
+//  It takes care of what data is to be displayed by each cell
 //
 //  Created by Jeet Chanchawat on 25/05/23.
 //
