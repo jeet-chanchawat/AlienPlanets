@@ -26,4 +26,4 @@
 5. On tapping planet, user can be navigated to Planet details screen where entire information can be displayed
 6. Add loader for all the API calls
 7. A local/API based search feature can be implemented
-Add dark/light mode and theme support
+8. Add dark/light mode or theme support
